@@ -1,4 +1,4 @@
-from llama_index import SimpleDirectoryReader, GPTListIndex, readers, GPTSimpleVectorIndex, LLMPredictor, PromptHelper, ServiceContext
+from llama_index import SimpleDirectoryReader, GPTListIndex, readers, GPTVectorStoreIndex, LLMPredictor, PromptHelper, ServiceContext
 from langchain import OpenAI
 import sys
 import os
@@ -22,15 +22,24 @@ def construct_index(directory_path):
     documents = SimpleDirectoryReader(directory_path).load_data()
     
     service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor, prompt_helper=prompt_helper)
-    index = GPTSimpleVectorIndex.from_documents(documents, service_context=service_context)
+    index = GPTVectorStoreIndex.from_documents(documents, service_context=service_context)
 
     index.save_to_disk('index.json')
 
     return index
 
 def ask_ai():
-    index = GPTSimpleVectorIndex.load_from_disk('index.json')
+    index = GPTVectorStoreIndex.load_from_disk('index.json')
     while True: 
         query = input("What do you want to ask? ")
         response = index.query(query)
         print(f"Response: {response.response}")
+
+
+
+
+if __name__ == "__main__":
+
+    os.environ["OPENAI_API_KEY"] = input("Paste your OpenAI key here and hit enter:")
+    construct_index("context_data/data")
+    ask_ai()
