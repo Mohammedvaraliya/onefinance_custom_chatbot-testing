@@ -1,8 +1,7 @@
-from llama_index import SimpleDirectoryReader, GPTListIndex, readers, GPTVectorStoreIndex, LLMPredictor, PromptHelper, ServiceContext
+from llama_index import SimpleDirectoryReader, GPTListIndex, readers, GPTSimpleVectorIndex, LLMPredictor, PromptHelper, ServiceContext
 from langchain import OpenAI
 import sys
 import os
-import jsonpickle
 
 def construct_index(directory_path):
     # set maximum input size
@@ -23,26 +22,18 @@ def construct_index(directory_path):
     documents = SimpleDirectoryReader(directory_path).load_data()
     
     service_context = ServiceContext.from_defaults(llm_predictor=llm_predictor, prompt_helper=prompt_helper)
-    index = GPTVectorStoreIndex.from_documents(documents, service_context=service_context)
+    index = GPTSimpleVectorIndex.from_documents(documents, service_context=service_context)
 
-    with open('index.json', 'w') as f:
-        f.write(jsonpickle.encode(index))
+    index.save_to_disk('index.json')
 
     return index
 
 def ask_ai():
-    with open('index.json', 'r') as f:
-        index = jsonpickle.decode(f.read())
-        query_engine = index.as_query_engine()
-
+    index = GPTSimpleVectorIndex.load_from_disk('index.json')
     while True: 
         query = input("What do you want to ask? ")
-        response = query_engine.query(query)
-        if response:
-            print(f"Response: {response[0].text}")
-        else:
-            print("Sorry, I don't have an answer to that question.")
-        print(f"Response: {response}")
+        response = index.query(query)
+        print(f"Response: {response.response}")
 
 if __name__ == "__main__":
 
