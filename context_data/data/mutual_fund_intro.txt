@@ -1,12 +1,8 @@
 INTRODUCTION TO MUTUAL FUNDS WHAT ARE MUTUAL FUNDS?
 A mutual fund is a collective investment vehicle that collects & pools money from a number of investors and invests the same in equities, bonds, government securities, money market instruments.
-
 The money collected in mutual fund scheme is invested by professional fund managers in stocks and bonds etc. in line with a scheme’s investment objective. The income / gains generated from this collective investment scheme are distributed proportionately amongst the investors, after deducting applicable expenses and levies, by calculating a scheme’s “Net Asset Value” or NAV. In return, mutual fund charges a small fee.
-
 In short, mutual fund is a collective pool of money contributed by several investors and managed by a professional Fund Manager.
-
 Mutual Funds in India are established in the form of a Trust under Indian Trust Act, 1882, in accordance with SEBI (Mutual Funds) Regulations, 1996.
-
 The fees and expenses charged by the mutual funds to manage a scheme are regulated and are subject to the limits specified by SEBI.
 
 HOW A MUTUAL FUND WORKS?
