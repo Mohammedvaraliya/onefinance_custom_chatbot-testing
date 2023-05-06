@@ -33,10 +33,11 @@ def construct_index(directory_path):
 def ask_ai():
     with open('index.json', 'r') as f:
         index = jsonpickle.decode(f.read())
+        query_engine = index.as_query_engine()
 
     while True: 
         query = input("What do you want to ask? ")
-        response = index.query(query, k=1)
+        response = query_engine.query(query)
         if response:
             print(f"Response: {response[0].text}")
         else:
