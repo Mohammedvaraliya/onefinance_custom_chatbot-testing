@@ -1,0 +1,483 @@
+INTRODUCTION TO MUTUAL FUNDS WHAT ARE MUTUAL FUNDS?
+A mutual fund is a collective investment vehicle that collects & pools money from a number of investors and invests the same in equities, bonds, government securities, money market instruments.
+
+The money collected in mutual fund scheme is invested by professional fund managers in stocks and bonds etc. in line with a scheme’s investment objective. The income / gains generated from this collective investment scheme are distributed proportionately amongst the investors, after deducting applicable expenses and levies, by calculating a scheme’s “Net Asset Value” or NAV. In return, mutual fund charges a small fee.
+
+In short, mutual fund is a collective pool of money contributed by several investors and managed by a professional Fund Manager.
+
+Mutual Funds in India are established in the form of a Trust under Indian Trust Act, 1882, in accordance with SEBI (Mutual Funds) Regulations, 1996.
+
+The fees and expenses charged by the mutual funds to manage a scheme are regulated and are subject to the limits specified by SEBI.
+
+HOW A MUTUAL FUND WORKS?
+One should avoid the temptation to review the fund's performance each time the market falls or jumps up significantly. For an actively-managed equity scheme, one must have patience and allow reasonable time - between 18 and 24 months - for the fund to generate returns in the portfolio.
+
+When you invest in a mutual fund, you are pooling your money with many other investors. Mutual fund issues “Units” against the amount invested at the prevailing NAV. Returns from a mutual fund may include income distributions to investors out of dividends, interest, capital gains or other income earned by the mutual fund. You can also have capital gains (or losses) if you sell the mutual fund units for more (or less) than the amount you invested.
+
+Mutual funds are ideal for investors who –
+lack the knowledge or skill / experience of investing in stock markets directly.
+want to grow their wealth, but do not have the inclination or time to research the stock market.
+wish to invest only small amounts.
+
+WHY INVEST IN MUTUAL FUNDS?
+As investment goals vary from person to person – post-retirement expenses, money for children’s education or marriage, house purchase, etc. – the investment products required to achieve these goals too vary. Mutual funds provide certain distinct advantages over investing in individual securities. Mutual funds
+ offer multiple choices for investment across equity shares, corporate bonds, government securities, and money market instruments, providing an excellent avenue for retail investors to participate and benefit from the uptrends in capital markets. The main advantages are that you can invest in a variety of securities for a relatively low cost and leave the investment decisions to a professional manager.
+
+
+Mutual funds come in many varieties, designed to meet different investor goals. Mutual funds can be broadly classified based on –
+
+Organisation Structure – Open ended, Close ended, Interval
+Management of Portfolio – Actively or Passively
+Investment Objective – Growth, Income, Liquidity
+Underlying Portfolio – Equity, Debt, Hybrid, Money market instruments, Multi Asset
+Thematic / solution oriented – Tax saving, Retirement benefit, Child welfare, Arbitrage
+Exchange Traded Funds
+Overseas funds
+Fund of funds
+
+SCHEME CLASSIFICATION BY ORGANIZATION STRUCTURE
+• Open-ended schemes are perpetual, and open for subscription and repurchase on a continuous basis on all business days at the current NAV.
+
+• Close-ended schemes have a fixed maturity date. The units are issued at the time of the initial offer and redeemed only on maturity. The units of close-ended schemes are mandatorily listed to provide exit route before maturity and can be sold/traded on the stock exchanges.
+
+• Interval schemes allow purchase and redemption during specified transaction periods (intervals). The transaction period has to be for a minimum of 2 days and there should be at least a 15-day gap between two transaction periods. The units of interval schemes are also mandatorily listed on the stock exchanges.
+
+
+SCHEME CLASSIFICATION BY PORTFOLIO MANAGEMENT
+Active Funds
+In an Active Fund, the Fund Manager is ‘Active’ in deciding whether to Buy, Hold, or Sell the underlying securities and in stock selection. Active funds adopt different strategies and styles to create and manage the portfolio.
+
+The investment strategy and style are described upfront in the Scheme Information document (offer document)
+Active funds expect to generate better returns (alpha) than the benchmark index.
+The risk and return in the fund will depend upon the strategy adopted.
+Active funds implement strategies to ‘select’ the stocks for the portfolio.
+Passive Funds
+Passive Funds hold a portfolio that replicates a stated Index or Benchmark e.g. –
+
+Index Funds
+Exchange Traded Funds (ETFs)
+In a Passive Fund, the fund manager has a passive role, as the stock selection / Buy, Hold, Sell decision is driven by the Benchmark Index and the fund manager / dealer merely needs to replicate the same with minimal tracking error.
+
+ACTIVE V/S PASSIVE FUNDS
+Active Fund –
+Rely on professional fund managers who manage investments.
+Aim to outperform Benchmark Index
+Suited for investors who wish to take advantage of fund managers' alpha generation potential.
+Passive Funds –
+Investment holdings mirror and closely track a benchmark index, e.g., Index Funds or Exchange Traded Funds (ETFs)
+Suited for investors who want to allocate exactly as per market index.
+Lower Expense ratio hence lower costs to investors and better liquidity
+CLASSIFICATION BY INVESTMENT OBJECTIVES
+Mutual funds offer products that cater to the different investment objectives of the investors such as –
+
+Capital Appreciation (Growth)
+Capital Preservation
+Regular Income
+Liquidity
+Tax-Saving
+Mutual funds also offer investment plans, such as Growth and Dividend options, to help tailor the investment to the investors’ needs.
+
+GROWTH FUNDS
+Growth Funds are schemes that are designed to provide capital appreciation.
+Primarily invest in growth oriented assets, such as equity
+Investment in growth-oriented funds require a medium to long-term investment horizon.
+Historically, Equity as an asset class has outperformed most other kind of investments held over the long term. However, returns from Growth funds tend to be volatile over the short-term since the prices of the underlying equity shares may change.
+Hence investors must be able to take volatility in the returns in the short-term.
+INCOME FUNDS
+The objective of Income Funds is to provide regular and steady income to investors.
+Income funds invest in fixed income securities such as Corporate Bonds, Debentures and Government securities.
+The fund’s return is from the interest income earned on these investments as well as capital gains from any change in the value of the securities.
+The fund will distribute the income provided the portfolio generates the required returns. There is no guarantee of income.
+The returns will depend upon the tenor and credit quality of the securities held.
+LIQUID / OVERNIGHT /MONEY MARKET MUTUAL FUNDS
+Liquid Schemes, Overnight Funds and Money market mutual fund are investment options for investors seeking liquidity and principal protection, with commensurate returns.
+– The funds invest in money market instruments* with maturities not exceeding 91 days.
+– The return from the funds will depend upon the short-term interest rate prevalent in the market.
+These are ideal for investors who wish to park their surplus funds for short periods.
+– Investors who use these funds for longer holding periods may be sacrificing better returns possible from products suitable for a longer holding period.
+
+* Money Market Instruments includes commercial papers, commercial bills, treasury bills, Government securities having an unexpired maturity up to one year, call or notice money, certificate of deposit, usance bills, and any other like instruments as specified by the Reserve Bank of India from time to time.
+CLASSIFICATION BY INVESTMENT PORTFOLIO
+Mutual fund products can be classified based on their underlying portfolio composition
+– The first level of categorization will be on the basis of the asset class the fund invests in, such as equity / debt / money market instruments or gold.
+– The second level of categorization is on the basis of strategies and styles used to create the portfolio, such as, Income fund, Dynamic Bond Fund, Infrastructure fund, Large-cap/Mid-cap/Small-cap Equity fund, Value fund, etc.
+– The portfolio composition flows out of the investment objectives of the schemes
+
+
+
+WHAT IS TOTAL EXPENSE RATIO?
+Under SEBI (Mutual Funds) Regulations, 1996, Mutual Funds are permitted to charge certain operating expenses for managing a mutual fund scheme – such as sales & marketing / advertising expenses, administrative expenses, transaction costs, investment management fees, registrar fees, custodian fees, audit fees – as a percentage of the fund’s daily net assets.
+
+All such costs for running and managing a mutual fund scheme are collectively referred to as ‘Total Expense Ratio’ (TER)
+
+The TER is calculated as a percentage of the Scheme’s average Net Asset Value (NAV). The daily NAV of a mutual fund is disclosed after deducting the expenses.
+
+Currently, in India, the expense ratio is fungible, i.e., there is no limit on any particular type of allowed expense as long as the total expense ratio is within the prescribed limit. The regulatory limits of TER that can be incurred/charged to the fund by a Mutual Fund AMC have been specified under Regulation 52 of SEBI Mutual Fund Regulations.
+
+Effective from April 1, 2020 the TER limit has been revised as follows.
+
+Assets Under Management (AUM)	Maximum TER as a percentage of daily net assets
+TER for Equity funds	TER for Debt funds
+On the first Rs. 500 crores	2.25%	2.00%
+On the next Rs. 250 crores	2.00%	1.75%
+On the next Rs. 1,250 crores	1.75%	1.50%
+On the next Rs. 3,000 crores	1.60%	1.35%
+On the next Rs. 5,000 crores	1.50%	1.25%
+On the next Rs. 40,000 crores	Total expense ratio reduction of 0.05%
+for every increase of Rs.5,000 crores of
+daily net assets or part thereof.	Total expense ratio reduction of 0.05%
+for every increase of Rs.5,000 crores of
+daily net assets or part thereof.
+Above Rs. 50,000 crores	1.05%	0.80%
+In addition, mutual funds have been allowed to charge up to 30 bps more, if the new inflows from retail investors from beyond top 30 cities (B30) cities are at least (a) 30% of gross new inflows in the scheme or (b) 15% of the average assets under management (year to date) of the scheme, whichever is higher. This is essentially to encourage inflows into mutual funds from tier - 2 and tier - 3 cities.
+
+TER has a direct bearing on a scheme’s NAV – the lower the expense ratio of a scheme, the higher the NAV. Thus, TER is an important parameter while selecting a mutual fund scheme.
+
+As per the current SEBI Regulations, mutual funds are required to disclose the TER of all schemes on a daily basis on their websites as well as AMFI’s website.
+
+
+RISK FACTORSSTANDARD RISK FACTORS
+Mutual Fund Schemes are not guaranteed or assured return products.
+Investment in Mutual Fund Units involves investment risks such as trading volumes, settlement risk, liquidity risk, default risk including the possible loss of principal.
+As the price / value / interest rates of the securities in which the Scheme invests fluctuates, the value of investment in a mutual fund Scheme may go up or down.
+In addition to the factors that affect the value of individual investments in the Scheme, the NAV of the Scheme may fluctuate with movements in the broader equity and bond markets and may be influenced by factors affecting capital and money markets in general, such as, but not limited to, changes in interest rates, currency exchange rates, changes in Government policies, taxation, political, economic or other developments and increased volatility in the stock and bond markets.
+Past performance does not guarantee future performance of any Mutual Fund Scheme.
+SPECIFIC RISK FACTORSRISKS ASSOCIATED WITH INVESTMENTS IN EQUITIES
+Risk of losing money:
+Investments in equity and equity related instruments involve a degree of risk and investors should not invest in the equity schemes unless they can afford to take the risk of possible loss of principal.
+
+Price Risk:
+Equity shares and equity related instruments are volatile and prone to price fluctuations on a daily basis.
+
+Liquidity Risk for listed securities:
+The liquidity of investments made in the equities may be restricted by trading volumes and settlement periods. Settlement periods may be extended significantly by unforeseen circumstances. While securities that are listed on the stock exchange carry lower liquidity risk, the ability to sell these investments is limited by the overall trading volume on the stock exchanges. The inability of a mutual fund to sell securities held in the portfolio could result in potential losses to the scheme, should there be a subsequent decline in the value of securities held in the scheme portfolio and may thus lead to the fund incurring losses till the security is finally sold.
+
+Event Risk:
+Price risk due to company or sector specific event.
+
+RISKS ASSOCIATED WITH INVESTMENT IN DEBT SECURITIES AND MONEY MARKET INSTRUMENTS
+Debt Securities are subject to the risk of an issuer’s inability to meet principal and interest payments on the obligation (Credit Risk) on the due date(s) and may also be subject to price volatility due to such factors as interest rate sensitivity, market perception of the creditworthiness of the issuer and general market liquidity (Market Risk).
+
+The timing of transactions in debt obligations, which will often depend on the timing of the Purchases and Redemptions in the Scheme, may result in capital appreciation or depreciation because the value of debt obligations generally varies inversely with the prevailing interest rates.
+
+Interest Rate Risk
+Market value of fixed income securities is generally inversely related to interest rate movement. Generally, when interest rates rise, prices of existing fixed income securities fall and when interest rates drop, such prices increase. Accordingly, value of a scheme portfolio may fall if the market interest rate rise and may appreciate when the market interest rate comes down. The extent of fall or rise in the prices depends upon the coupon and maturity of the security. It also depends upon the yield level at which the security is being traded.
+
+Credit Risk
+This is risk associated with default on interest and /or principal amounts by issuers of fixed income securities. In case of a default, scheme may not fully receive the due amounts and NAV of the scheme may fall to the extent of default. Even when there is no default, the price of a security may change with expected changes in the credit rating of the issuer. It may be mentioned here that a government security is a sovereign security and is safer. Corporate bonds carry a higher amount of credit risk than government securities. Within corporate bonds also there are different levels of safety and a bond rated higher by a rating agency is safer than a bond rated lower by the same rating agency.
+
+Spread Risk
+Credit spreads on corporate bonds may change with varying market conditions. Market value of debt securities in portfolio may depreciate if the credit spreads widen and vice versa. Similarly, in case of floating rate securities, if the spreads over the benchmark security / index widen, then the value of such securities may depreciate.
+
+Liquidity Risk
+Liquidity risk refers to the ease with which securities can be sold at or near its valuation yield-to-maturity (YTM) or true value. Liquidity condition in market varies from time to time. The liquidity of a bond may change, depending on market conditions leading to changes in the liquidity premium attached to the price of the bond. In an environment of tight liquidity, necessity to sell securities may have higher than usual impact cost. Further, liquidity of any particular security in portfolio may lessen depending on market condition, requiring higher discount at the time of selling.
+
+The primary measure of liquidity risk is the spread between the bid price and the offer price quoted by a dealer. Trading volumes, settlement periods and transfer procedures may restrict the liquidity of some of these investments. Different segments of the Indian financial markets have different settlement periods, and such periods may be extended significantly by unforeseen circumstances. Further, delays in settlement could result in temporary periods when a portion of the assets of the Scheme are not invested and no return is earned thereon or the Scheme may miss attractive investment opportunities.
+
+At the time of selling the security, the security may become illiquid, leading to loss in value of the portfolio. The purchase price and subsequent valuation of restricted and illiquid securities may reflect a discount, which may be significant, from the market price of comparable securities for which a liquid market exists.
+
+Counterparty Risk
+This is the risk of failure of the counterparty to a transaction to deliver securities against consideration received or to pay consideration against securities delivered, in full or in part or as per the agreed specification. There could be losses to the fund in case of a counterparty default.
+
+Prepayment Risk
+This arises when the borrower pays off the loan sooner than the due date. This may result in a change in the yield and tenor for the mutual fund scheme. When interest rates decline, borrowers tend to pay off high interest loans with money borrowed at a lower interest rate, which shortens the average maturity of Asset-backed securities (ABS). However, there is some prepayment risk even if interest rates rise, such as when an owner pays off a mortgage when the house is sold or an auto loan is paid off when the car is sold. Since prepayment risk increases when interest rates decline, this also introduces reinvestment risk, which is the risk that the principal may only be reinvested at a lower rate.
+
+Re-investment Risk
+Investments in fixed income securities carry re-investment risk as the interest rates prevailing on the coupon payment or maturity dates may differ from the original coupon of the bond (the purchase yield of the security). This may result in final realized yield to be lower than that expected at the time
+
+The additional income from reinvestment is the "interest on interest" component. There may be a risk that the rate at which interim cash flows can be reinvested are lower than that originally assumed.
+
+ADVANTAGES OF INVESTING IN MUTUAL FUNDS
+1. Professional Management — Investors may not have the time or the required knowledge and resources to conduct their research and purchase individual stocks or bonds. A mutual fund is managed by full-time, professional money managers who have the expertise, experience and resources to actively buy, sell, and monitor investments. A fund manager continuously monitors investments and rebalances the portfolio accordingly to meet the scheme’s objectives. Portfolio management by professional fund managers is one of the most important advantages of a mutual fund.
+
+
+2. Risk Diversification — Buying shares in a mutual fund is an easy way to diversify your investments across many securities and asset categories such as equity, debt and gold, which helps in spreading the risk - so you won't have all your eggs in one basket. This proves to be beneficial when an underlying security of a given mutual fund scheme experiences market headwinds. With diversification, the risk associated with one asset class is countered by the others. Even if one investment in the portfolio decreases in value, other investments may not be impacted and may even increase in value. In other words, you don’t lose out on the entire value of your investment if a particular component of your portfolio goes through a turbulent period. Thus, risk diversification is one of the most prominent advantages of investing in mutual funds.
+
+
+3. Affordability & Convenience (Invest Small Amounts) — For many investors, it could be more costly to directly purchase all of the individual securities held by a single mutual fund. By contrast, the minimum initial investments for most mutual funds are more affordable.
+
+
+4. Liquidity — You can easily redeem (liquidate) units of open ended mutual fund schemes to meet your financial needs on any business day (when the stock markets and/or banks are open), so you have easy access to your money. Upon redemption, the redemption amount is credited in your bank account within one day to 3-4 days, depending upon the type of scheme e.g., in respect of Liquid Funds and Overnight Funds, the redemption amount is paid out the next business day.
+
+However, please note that units of close-ended mutual fund schemes can be redeemed only on maturity. Likewise, units of ELSS have a 3-year lock-in period and can be liquidated only thereafter.
+
+5. Low Cost — An important advantage of mutual funds is their low cost. Due to huge economies of scale, mutual funds schemes have a low expense ratio. Expense ratio represents the annual fund operating expenses of a scheme, expressed as a percentage of the fund’s daily net assets. Operating expenses of a scheme are administration, management, advertising related expenses, etc. The limits of expense ratio for various types of schemes has been specified under Regulation 52 of SEBI Mutual Fund Regulations, 1996.
+
+6. Well-Regulated — Mutual Funds are regulated by the capital markets regulator, Securities and Exchange Board of India (SEBI) under SEBI (Mutual Funds) Regulations, 1996. SEBI has laid down stringent rules and regulations keeping investor protection, transparency with appropriate risk mitigation framework and fair valuation principles.
+
+7. Tax Benefits —Investment in ELSS upto ₹1,50,000 qualifies for tax benefit under section 80C of the Income Tax Act, 1961. Mutual Fund investments when held for a longer term are tax efficient.
+
+
+SEBI CATEGORIZATION OF MUTUAL FUND SCHEMES
+As per SEBI guidelines on Categorization and Rationalization of schemes issued in October 2017, mutual fund schemes are classified as –
+
+Equity Schemes
+Debt Schemes
+Hybrid Schemes
+Solution Oriented Schemes – For Retirement and Children
+Other Schemes – Index Funds & ETFs and Fund of Funds
+– Under Equity category, Large, Mid and Small cap stocks have now been defined.
+
+– Naming convention of the schemes, especially debt schemes, as per the risk level of underlying portfolio (e.g., the erstwhile ‘Credit Opportunity Fund’ is now called “Credit Risk Fund”)
+
+– Balanced / Hybrid funds are further categorised into conservative hybrid fund, balanced hybrid fund and aggressive hybrid fund.
+
+EQUITY SCHEMES
+An equity Scheme is a fund that –
+
+– Primarily invests in equities and equity related instruments.
+
+– Seeks long term growth but could be volatile in the short term.
+
+– Suitable for investors with higher risk appetite and longer investment horizon.
+
+The objective of an equity fund is generally to seek long-term capital appreciation. Equity funds may focus on certain sectors of the market or may have a specific investment style, such as investing in value or growth stocks.
+
+Equity Fund Categories as per SEBI guidelines on Categorization and Rationalization of schemes
+
+Multi Cap Fund*	At least 65% investment in equity & equity related instruments
+Large Cap Fund	At least 80% investment in large cap stocks
+Large & Mid Cap Fund	At least 35% investment in large cap stocks and 35% in mid cap stocks
+Mid Cap Fund	At least 65% investment in mid cap stocks
+Small cap Fund	At least 65% investment in small cap stocks
+
+Dividend Yield Fund	Predominantly invest in dividend yielding stocks, with at least 65% in stocks
+Value Fund	Value investment strategy, with at least 65% in stocks
+Contra Fund	Scheme follows contrarian investment strategy with at least 65% in stocks
+Focused Fund	Focused on the number of stocks (maximum 30) with at least 65% in equity & equity related instruments
+Sectoral/ Thematic Fund	At least 80% investment in stocks of a particular sector/ theme
+ELSS	At least 80% in stocks in accordance with Equity Linked Saving Scheme, 2005, notified by Ministry of Finance
+*Also referred to as Diversified Equity Funds – as they invest across stocks of different sectors and segments of the market. Diversification minimizes the risk of high exposure to a few stocks, sectors or segment.
+
+SECTOR SPECIFIC FUNDS
+Sectoral funds invest in a particular sector of the economy such as infrastructure, banking, technology or pharmaceuticals etc.
+
+– Since these funds focus on just one sector of the economy, they limit diversification, and are thus riskier.
+
+– Timing of investment into such funds are important, because the performance of the sectors tend to be cyclical.
+
+Examples of Sector Specific Funds - Equity Mutual Funds with an investment objective to invest in
+
+Pharma & Healthcare Sector
+Banking & Finance Sector:
+FMCG (fast moving consumer goods) and related sectors.
+Technology and related sectors
+THEMATIC FUNDS
+Thematic funds select stocks of companies in industries that belong to a particular theme - For example, Infrastructure, Service industries, PSUs or MNCs.
+They are more diversified than Sectoral Funds and hence have lower risk than Sectoral funds.
+VALUE FUNDS (STRATEGY AND STYLE BASED FUNDS)
+Equity funds may be categorized based on the valuation parameters adopted in stock selection, such as
+– Growth funds identify momentum stocks that are expected to perform better than the market
+
+– Value funds identify stocks that are currently undervalued but are expected to perform well over time as the value is unlocked
+
+Equity funds may hold a concentrated portfolio to benefit from stock selection.
+– These funds will have a higher risk since the effect of a wrong selection can be substantial on the portfolio’s return
+
+CONTRA FUNDS
+Contra funds are equity mutual funds that take a contrarian view on the market.
+Underperforming stocks and sectors are picked at low price points with a view that they will perform in the long run.
+The portfolios of contra funds have defensive and beaten down stocks that have given negative returns during bear markets.
+These funds carry the risk of getting calls wrong as catching a trend before the herd is not possible in every market cycle and these funds typically underperform in a bull market.
+As per the SEBI guidelines on Scheme categorisation of mutual funds, a fund house can either offer a Contra Fund or a Value Fund, not both.
+EQUITY LINKED SAVINGS SCHEME (ELSS)
+ELSS invests at least 80% in stocks in accordance with Equity Linked Saving Scheme, 2005, notified by Ministry of Finance.
+
+Has lock-in period of 3 years (which is shortest amongst all other tax saving options)
+Currently eligible for deduction under Sec 80C of the Income Tax Act upto ₹1,50,000
+DEBT SCHEMES
+A debt fund (also known as income fund) is a fund that invests primarily in bonds or other debt securities.
+Debt funds invest in short and long-term securities issued by government, public financial institutions, companies
+– Treasury bills, Government Securities, Debentures, Commercial paper, Certificates of Deposit and others
+
+Debt funds can be categorized based on the tenor of the securities held in the portfolio and/or on the basis of the issuers of the securities or their fund management strategies, such as
+– Short-term funds, Medium-term funds, Long-term funds
+
+– Gilt fund, Treasury fund, Corporate bond fund, Infrastructure debt fund
+
+Floating rate funds, Dynamic Bond funds, Fixed Maturity Plans
+Debt funds have potential for income generation and capital preservation.
+Debt Fund Categories as per SEBI guidelines on Categorization and Rationalization of schemes
+
+Overnight Fund	Overnight securities having maturity of 1 day
+Liquid Fund	Debt and money market securities with maturity of upto 91 days only
+Ultra Short Duration Fund	Debt & Money Market instruments with Macaulay duration of the portfolio between 3 months - 6 months
+Low Duration Fund	Investment in Debt & Money Market instruments with Macaulay duration portfolio between 6 months- 12 months
+Money Market Fund	Investment in Money Market instruments having maturity upto 1 Year
+Short Duration Fund	Investment in Debt & Money Market instruments with Macaulay duration of the portfolio between 1 year - 3 years
+Medium Duration Fund	Investment in Debt & Money Market instruments with Macaulay duration of portfolio between 3 years - 4 years
+Medium to Long Duration Fund	Investment in Debt & Money Market instruments with Macaulay duration of the portfolio between 4 - 7 years
+Long Duration Fund	Investment in Debt & Money Market Instruments with Macaulay duration of the portfolio greater than 7 years
+Dynamic Bond	Investment across duration
+Corporate Bond Fund	Minimum 80% investment in corporate bonds only in AA+ and above rated corporate bonds
+Credit Risk Fund	Minimum 65% investment in corporate bonds, only in AA and below rated corporate bonds
+Banking and PSU Fund	Minimum 80% in Debt instruments of banks, Public Sector Undertakings, Public Financial Institutions and Municipal Bonds
+Gilt Fund	Minimum 80% in G-secs, across maturity
+Gilt Fund with 10 year constant Duration	Minimum 80% in G-secs, such that the Macaulay duration of the portfolio is equal to 10 years
+Floater Fund	Minimum 65% in floating rate instruments (including fixed rate instruments converted to floating rate exposures using swaps/ derivatives)
+
+Dynamic Bond funds alter the tenor of the securities in the portfolio in line with expectation on interest rates. The tenor is increased if interest rates are expected to go down and vice versa
+
+
+Floating rate funds invest in bonds whose interest are reset periodically so that the fund earns coupon income that is in line with current rates in the market, and eliminates interest rate risk to a large extent
+
+Short-Term Debt Funds
+The primary focus of short-term debt funds is coupon income. Short term debt funds have to also be evaluated for the credit risk they may take to earn higher coupon income. The tenor of the securities will define the return and risk of the fund.
+
+– Funds holding securities with lower tenors have lower risk and lower return.
+
+Liquid funds invest in securities with not more than 91 days to maturity.
+Ultra Short-Term Debt Funds hold a portfolio with a slightly higher tenor to earn higher coupon income.
+Short-Term Fund combine coupon income earned from a pre-dominantly short-term debt portfolio with some exposure to longer term securities to benefit from appreciation in price.
+
+Fixed Maturity Plans (FMPs)
+– FMPs are closed-ended funds which eliminate interest rate risk and lock-in a yield by investing only in securities whose maturity matches the maturity of the fund.
+
+– FMPs create an investment portfolio whose maturity profile match that of the FMP tenor.
+
+– Potential to provide better returns than liquid funds and Ultra Short Term Funds since investments are locked in
+
+– Low mark to market risk as investments are liquidated at maturity.
+
+– Investors commit money for a fixed period.
+
+– Investors cannot prematurely redeem the units from the fund
+
+– FMPs, being closed-end schemes are mandatorily listed - investors can buy or sell units of FMPs only on the stock exchange after the NFO.
+
+– Only Units held in dematerialized mode can be traded; therefore investors seeking liquidity in such schemes need to have a demat account.
+
+Capital Protection Oriented Funds
+Capital Protection Oriented Funds are close-ended hybrid funds that create a portfolio of debt instruments and equity derivatives
+
+– The portfolio is structured to provide capital protection and is rated by a credit rating agency on its ability to do so. The rating is reviewed every quarter.
+
+– The debt component of the portfolio has to be invested in instruments with the highest investment grade rating.
+
+– A portion of the amount brought in by the investors is invested in debt instruments that is expected to mature to the par value of the capital invested by investors into the fund. The capital is thus protected.
+
+– The remaining portion of the funds is used to invest in equity derivatives to generate higher returns
+
+HYBRID FUNDS
+Hybrid funds Invest in a mix of equities and debt securities.
+
+SEBI has classified Hybrid funds into 7 sub-categories as follows:
+
+Conservative Hybrid Fund	10% to 25% investment in equity & equity related instruments; and
+75% to 90% in Debt instruments
+Balanced Hybrid Fund	40% to 60% investment in equity & equity related instruments; and
+40% to 60% in Debt instruments
+Aggressive Hybrid Fund	65% to 80% investment in equity & equity related instruments; and
+20% to 35% in Debt instruments
+Dynamic Asset Allocation or Balanced Advantage Fund	Investment in equity/ debt that is managed dynamically (0% to 100% in equity & equity related instruments; and
+0% to 100% in Debt instruments)
+Multi Asset Allocation Fund	Investment in at least 3 asset classes with a minimum allocation of at least 10% in each asset class
+Arbitrage Fund	Scheme following arbitrage strategy, with minimum 65% investment in equity & equity related instruments
+Equity Savings	Equity and equity related instruments (min.65%);
+debt instruments (min.10%) and
+derivatives (min. for hedging to be specified in the SID)
+
+Solution-oriented & Other funds
+
+Retirement Fund	Lock-in for at least 5 years or till retirement age whichever is earlier
+Children’s Fund	Lock-in for at least 5 years or till the child attains age of majority whichever is earlier
+Index Funds/ ETFs	Minimum 95% investment in securities of a particular index
+Fund of Funds (Overseas/ Domestic)	Minimum 95% investment in the underlying fund(s)
+Hybrid funds
+Invest in a mix of equities and debt securities. They seek to find a ‘balance’ between growth and income by investing in both equity and debt.
+
+– The regular income earned from the debt instruments provide greater stability to the returns from such funds.
+
+– The proportion of equity and debt that will be held in the portfolio is indicated in the Scheme Information Document
+
+– Equity oriented hybrid funds (Aggressive Hybrid Funds) are ideal for investors looking for growth in their investment with some stability.
+
+– Debt-oriented hybrid funds (Conservative Hybrid Fund) are suitable for conservative investors looking for a boost in returns with a small exposure to equity.
+
+– The risk and return of the fund will depend upon the equity exposure taken by the portfolio - Higher the allocation to equity, greater is the risk
+
+Multi Asset Funds
+A multi-asset fund offers exposure to a broad number of asset classes, often offering a level of diversification typically associated with institutional investing.
+Multi-asset funds may invest in a number of traditional equity and fixed income strategies, index-tracking funds, financial derivatives as well as commodity like gold.
+This diversity allows portfolio managers to potentially balance risk with reward and deliver steady, long-term returns for investors, particularly in volatile markets.
+Arbitrage Funds
+“Arbitrage” is the simultaneous purchase and sale of an asset to take advantage of the price differential in the two markets and profit from price difference of the asset on different markets or in different forms.
+
+– Arbitrage fund buys a stock in the cash market and simultaneously sells it in the Futures market at a higher price to generate returns from the difference in the price of the security in the two markets.
+– The fund takes equal but opposite positions in both the markets, thereby locking in the difference.
+– The positions have to be held until expiry of the derivative cycle and both positions need to be closed at the same price to realize the difference.
+– The cash market price converges with the Futures market price at the end of the contract period. Thus it delivers risk-free profit for the investor/trader.
+– Price movements do not affect initial price differential because the profit in one market is set-off by the loss in the other market.
+– Since mutual funds invest own funds, the difference is fully the return.
+Hence, Arbitrage funds are considered to be a good choice for cautious investors who want to benefit from a volatile market without taking on too much risk.
+
+Index Funds
+Index funds create a portfolio that mirrors a market index.
+
+– The securities included in the portfolio and their weights are the same as that in the index
+– The fund manager does not rebalance the portfolio based on their view of the market or sector
+– Index funds are passively managed, which means that the fund manager makes only minor, periodic adjustments to keep the fund in line with its index. Hence, Index fund offers the same return and risk represented by the index it tracks.
+– The fees that an index fund can charge is capped at 1.5%
+Investors have the comfort of knowing the stocks that will form part of the portfolio, since the composition of the index is known.
+
+
+Exchange Traded Funds (ETFs)
+An ETF is a marketable security that tracks an index, a commodity, bonds, or a basket of assets like an index fund.
+
+ETFs are listed on stock exchanges.
+Unlike regular mutual funds, an ETF trades like a common stock on a stock exchange. The traded price of an ETF changes throughout the day like any other stock, as it is bought and sold on the stock exchange.
+ETF Units are compulsorily held in Demat mode
+ETFs are passively managed, which means that the fund manager makes only minor, periodic adjustments to keep the fund in line with its index
+Because an ETF tracks an index without trying to outperform it, it incurs lower administrative costs than actively managed portfolios.
+Rather than investing in an ‘active’ fund managed by a fund manager, when one buy units of an ETF one is harnessing the power of the market itself.
+Suitable for investors seeking returns similar to index and liquidity similar to stocks
+Fund of Funds (FoF)
+Fund of funds are mutual fund schemes that invest in the units of other schemes of the same mutual fund or other mutual funds.
+The schemes selected for investment will be based on the investment objective of the FoF
+The FoF have two levels of expenses: that of the scheme whose units the FoF invests in and the expense of the FoF itself. Regulations limit the total expenses that can be charged across both levels as follows:
+– TER in respect of FoF investing liquid schemes, index funds & ETFs has been capped @ 1%
+
+– TER of FoF investing in equity-oriented schemes has been capped @ 2.25%
+
+– TER of FoF investing in other schemes than mentioned above has been capped @2%.
+
+Gold Exchange Traded Funds (FoF)
+Gold ETFs are ETFs with gold as the underlying asset
+– The scheme will issue units against gold held. Each unit will represent a defined weight in gold, typically one gram.
+
+– The scheme will hold gold in form of physical gold or gold related instruments approved by SEBI.
+
+– Schemes can invest up to 20% of net assets in Gold Deposit Scheme of banks
+
+The price of ETF units moves in line with the price of gold on metal exchange.
+After the NFO, units are issued to intermediaries called authorized participants against gold or funds submitted. They can also redeem the units for the underlying gold
+Benefits of Gold ETFs
+Convenience --> option of holding gold electronically instead of physical gold.
+– Safer option to hold gold since there are no risks of theft or purity.
+
+– Provides easy liquidity and ease of transaction.
+
+Gold ETFs are treated as non-equity oriented mutual funds for the purpose of taxation.
+– Eligible for long-term capital gains benefits if held for three years.
+
+– No wealth tax is applicable on Gold ETFs
+
+International Funds
+International funds enable investments in markets outside India, by holding in their portfolio one or more of the following:
+– Equity of companies listed abroad.
+– ADRs and GDRs of Indian companies.
+– Debt of companies listed abroad.
+– ETFs of other countries.
+– Units of passive index funds in other countries.
+– Units of actively managed mutual funds in other countries.
+International equity funds may also hold some of their portfolios in Indian equity or debt.
+– They can hold some portion of the portfolio in money market instruments to manage liquidity.
+International funds gives the investor additional benefits of
+– Diversification, since global markets may have a low correlation with domestic markets.
+– Investment options that may not be available domestically.
+– Access to companies that are global leaders in their field.
+There are risks associated with investing in such funds, such as –
+– Political events and macro economic factors that are less familiar and therefore difficult to interpret
+– Movements in foreign exchange rate may affect the return on redemption
+– Countries may change their investment policy towards global investors.
+For the purpose of taxation, these funds are considered as non-equity oriented mutual fund schemes.
