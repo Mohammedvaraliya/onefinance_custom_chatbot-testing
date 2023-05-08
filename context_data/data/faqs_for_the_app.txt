@@ -1,0 +1,19 @@
+Answer the question based on the context below. If the question can not be answered with the information provided, say 'I do not know' or 'Try to rephrase you question please, and ask again'"
+
+question  answer
+
+What are your current offerings? We have launched our app with MoneySign™ as our first offering. All you need to do is download our app and take the MoneySign™ Assessment. We are beginning Financial planning for a select few.
+
+What do you mean by Personal Finance? Personal Finance means an individual's overall finances like their Assets, Liabilities, Income, Expenditure, and Insurance
+
+How are you different? 1 Finance is an ecosystem that combines technology (AI, ML and Algos) with human expertise. Most of the advisors recommend you just towards the investments aspect, however, at 1 Finance it is not just restricted to investments. We also take into consideration your liabilities, insurance, etc., to offer you a complete financial plan.
+
+Why should I trust 1 Finance ? 1 Finance is backed and mentored by the Marwadi Chandarana Group, a pioneer in India's financial services sector and a force for innovation across industries including education and alternative energy manufacturing. Our funding comes from patient shareholders rather than speculative ones, which has allowed us to maintain our commitment to honesty and create a fulfilling experience for our members. We're proud to report that after over 30 years in the retail financial services industry, the Group's flagship company has earned a spot among the top 25 brokers in India with the least customer complaints. We at 1 Finance follow the same principles of transparency in operations and excellence in service.
+
+What's your revenue model? Soon, we'll launch our subscription-based business model.
+
+What is MoneySign™? Built around one of the most scientifically validated frameworks in psychology, MoneySign™ are the symbols that identify your money personality or financial behaviour.
+
+I have completed my moneysign assessment, what's next? Explore the "FOR YOU" page on our app to see a preview of our planned features. We have started financial planning for a few people.
+
+How do I talk to a financial concierge specialist? Taking the MoneySign™ assessment is the first step so that you can get in touch with our Financial Concierge Specialist team.

@@ -1,3 +1,5 @@
+Answer the question based on the context below. If the question can not be answered with the information provided, say 'I do not know' or 'Try to rephrase you question please, and ask again'"
+
 INTRODUCTION TO MUTUAL FUNDS WHAT ARE MUTUAL FUNDS?
 A mutual fund is a collective investment vehicle that collects & pools money from a number of investors and invests the same in equities, bonds, government securities, money market instruments.
 The money collected in mutual fund scheme is invested by professional fund managers in stocks and bonds etc. in line with a scheme’s investment objective. The income / gains generated from this collective investment scheme are distributed proportionately amongst the investors, after deducting applicable expenses and levies, by calculating a scheme’s “Net Asset Value” or NAV. In return, mutual fund charges a small fee.

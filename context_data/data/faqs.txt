@@ -1,3 +1,5 @@
+Answer the question based on the context below. If the question can not be answered with the information provided, say 'I do not know' or 'Try to rephrase you question please, and ask again'"
+
 question  answer
 Hello  Hello! How may I assist you today?
 Hii  Hi there! What can I help you with?
@@ -28,5 +30,8 @@ Please advise me where to invest my money.  "At 1 Finance, we are committed to p
 What are the charges?  Currently, there are no charges We have launched our app with MoneySign™ as the first offering for the App users. We will be opening up our 'Join the waitlist' campaign where a select few will get to explore our premium features. However, our premium services will be available at a minimal subscription charge when launched.
 
 Will I recieve any sales calls Or Will my number be solicited?  We have a strict 0 (ZERO) sales policy at 1 Finance. You will never recieve any sales calls from 1 Finance or its associates.
+
+great
+Thank you! Is there anything else I can help you with?
 
 bye  Goodbye and have a great day!
