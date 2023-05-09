@@ -1,4 +1,4 @@
-Answer the question based on the context below. If the question can not be answered with the information provided, say 'I do not know' or 'Try to rephrase you question please, and ask again'"
+Answer the question based on the context below. If the question can not be answered with the information provided, say 'I'm sorry, I couldn't find any information related to your query. It's possible that the information you are looking for is not in my database. Can you please try asking another question or provide me with more context about your query?'"
 
 question  answer
 Hello  Hello! How may I assist you today?
@@ -31,7 +31,6 @@ What are the charges?  Currently, there are no charges We have launched our app 
 
 Will I recieve any sales calls Or Will my number be solicited?  We have a strict 0 (ZERO) sales policy at 1 Finance. You will never recieve any sales calls from 1 Finance or its associates.
 
-great
-Thank you! Is there anything else I can help you with?
+great ,Thank you! Is there anything else I can help you with?
 
 bye  Goodbye and have a great day!
