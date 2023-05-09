@@ -32,7 +32,10 @@ def ask_ai():
     index = GPTSimpleVectorIndex.load_from_disk('index.json')
     while True: 
         query = input("What do you want to ask? ")
-        response = index.query(query)
+        if not query:
+            print("Please enter something to get the response")
+        else:
+            response = index.query(query)
         print(f"Response: {response.response}")
 
 if __name__ == "__main__":

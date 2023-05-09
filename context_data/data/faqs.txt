@@ -1,8 +1,6 @@
 Answer the question based on the context below. If the question can not be answered with the information provided, say 'I'm sorry, I couldn't find any information related to your query. It's possible that the information you are looking for is not in my database. Can you please try asking another question or provide me with more context about your query?'"
 
 question  answer
-Hello  Hello! How may I assist you today?
-Hii  Hi there! What can I help you with?
 
 What is 1Finance?  1 Finance is reimagining the space of personal finance advisory in India. For us, this means offering advice that takes into account not just your financial status and life goals but also your traits and behaviours, in order to equip you with the ability to attain financial well-being. We’re doing this by building an ecosystem that caters to the long-term well-being of our members, and aligning our goals with the interests of all other stakeholders as well, which in turn triggers a shift towards transparency in the industry at large.
 
@@ -31,6 +29,4 @@ What are the charges?  Currently, there are no charges We have launched our app 
 
 Will I recieve any sales calls Or Will my number be solicited?  We have a strict 0 (ZERO) sales policy at 1 Finance. You will never recieve any sales calls from 1 Finance or its associates.
 
-great ,Thank you! Is there anything else I can help you with?
 
-bye  Goodbye and have a great day!
