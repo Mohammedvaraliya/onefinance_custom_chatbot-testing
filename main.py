@@ -38,6 +38,7 @@ def ask_ai():
 if __name__ == "__main__":
 
     os.environ["OPENAI_API_KEY"] = input("Paste your OpenAI key here and hit enter:")
-    construct_index("context_data/data")
+    if not os.path.exists('index.json'):
+        construct_index("context_data/data")
     ask_ai()
 
