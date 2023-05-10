@@ -1,46 +1,42 @@
 Answer the question based on the context below. If the question can not be answered with the information provided, say 'I'm sorry, I couldn't find any information related to your query. It's possible that the information you are looking for is not in my database. Can you please try asking another question or provide me with more context about your query?'"
 
-question  
-answer
+below contents are in the form of question and answer on next line, so response the relevant content accordingly
 
-What is 1Finance?  
-1 Finance is reimagining the space of personal finance advisory in India. For us, this means offering advice that takes into account not just your financial status and life goals but also your traits and behaviours, in order to equip you with the ability to attain financial well-being. We’re doing this by building an ecosystem that caters to the long-term well-being of our members, and aligning our goals with the interests of all other stakeholders as well, which in turn triggers a shift towards transparency in the industry at large.
+Will I recieve any sales calls Or Will my number be solicited?  
+We have a strict 0 (ZERO) sales policy at 1 Finance. You will never recieve any sales calls from 1 Finance or its associates.
 
-How do I sign up for 1Finance?  
+What are the charges?  
+Currently, there are no charges We have launched our app with MoneySign™ as the first offering for the App users. We will be opening up our 'Join the waitlist' campaign where a select few will get to explore our premium features. However, our premium services will be available at a minimal subscription charge when launched.
+
+How do I sign up for 1Finance? 
 You can sign up for 1Finance by downloading our app from the App Store or Google Play Store and following the registration process. You will need to provide some basic information about yourself, such as your name, address, and phone number.
 
-What does 1 Finance do?  
+What does 1 Finance do? 
 We offer financial advice that takes into account an individual's financial status and life goals, and complements their inherent behavioural traits and psychological disposition. To get deeper insight into how your mind works when it come to money, discover your MoneySign™.
 
-What is 1 Finance?  
+What is 1 Finance?
 1 Finance is reimagining the space of personal finance advisory in India. For us, this means offering advice that takes into account not just your financial status and life goals but also your traits and behaviours, in order to equip you with the ability to attain financial well-being. We're doing this by building an ecosystem that caters to the long-term well-being of our members, and aligning our goals with the interests of all other stakeholders as well, which in turn triggers a shift towards transparency in the industry at large.
 
-What is financial well-being?  
+What is financial well-being? 
 Financial well-being is a state of mind that is achieved when the core and committed financial milestones of an individual are covered by the existing asset allocation and the cash inflow (from passive income source and partial selling of assets) is more than the cash outflow (from household & lifestyle expenses, liability EMIs and taxes) for the individual and his/her dependents till their mortality and/or dependents becoming financially independent.
 
-What is Financial Concierge?  
+What is Financial Concierge? 
 Financial Concierge is a dedicated team of qualified financial experts, who shall assist you in the seamless execution of your financial plan.
 
-When will you share your recommendations?  
+When will you share your recommendations? 
 At 1 Finance, we strictly do not share any general recommendations, since advisory is hyperpersonalised. We advise only through Qualified Financial Advisors (QFAs), which can be done once the member is registered under 1 Finance.
 
-Please advise me where to invest my money?
+Please advise me where to invest my money? 
 At 1 Finance, we are committed to providing hyper-personalised financial advisory. As per our 3-step approach (We understand you, we advise you, we journey together), we are not authorised to offer any advisory solutions without considering your financial, demographic and behavioural information.
 For further guidance you can:
 1. Speak to our team of Financial Concierge specialists.
 2. Opt for advisory solutions from our Qualified Financial Advisors.
 
-What are the charges?  
-Currently, there are no charges We have launched our app with MoneySign™ as the first offering for the App users. We will be opening up our 'Join the waitlist' campaign where a select few will get to explore our premium features. However, our premium services will be available at a minimal subscription charge when launched.
-
-Will I recieve any sales calls Or Will my number be solicited?  
-We have a strict 0 (ZERO) sales policy at 1 Finance. You will never recieve any sales calls from 1 Finance or its associates.
-
 What do you mean by Personal Finance? 
 Personal Finance means an individual's overall finances like their Assets, Liabilities, Income, Expenditure, and Insurance
 
-How are you different ? 
-1 Finance is an ecosystem that combines technology (AI, ML and Algos) with human expertise. Most of the advisors recommend you just towards the investments aspect, however, at 1 Finance it is not just restricted to investments. We also take into consideration your liabilities, insurance, etc., to offer you a complete financial plan.
+How are you different? 
+1 Finance is a different "1 Finance is an ecosystem that combines technology (AI, ML and Algos) with human expertise. Most of the advisors recommend you just towards the investments aspect, however, at 1 Finance it is not just restricted to investments. We also take into consideration your liabilities, insurance, etc., to offer you a complete financial plan".
 
 Why should I trust 1 Finance ? 
 1 Finance is backed and mentored by the Marwadi Chandarana Group, a pioneer in India's financial services sector and a force for innovation across industries including education and alternative energy manufacturing. Our funding comes from patient shareholders rather than speculative ones, which has allowed us to maintain our commitment to honesty and create a fulfilling experience for our members. We're proud to report that after over 30 years in the retail financial services industry, the Group's flagship company has earned a spot among the top 25 brokers in India with the least customer complaints. We at 1 Finance follow the same principles of transparency in operations and excellence in service.

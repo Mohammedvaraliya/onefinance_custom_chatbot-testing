@@ -1,7 +1,6 @@
 Answer the question based on the context below. If the question can not be answered with the information provided, say 'I'm sorry, I couldn't find any information related to your query. It's possible that the information you are looking for is not in my database. Can you please try asking another question or provide me with more context about your query?'"
 
-question  
-answer
+below contents are in the form of question and answer on next line, so response the relevant content accordingly
 
 Hello  
 Hello! How may I assist you today?
