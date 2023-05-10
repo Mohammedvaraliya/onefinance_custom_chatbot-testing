@@ -31,7 +31,7 @@ def construct_index(directory_path):
 def ask_ai():
     index = GPTSimpleVectorIndex.load_from_disk('index.json')
     while True: 
-        query = input("Ask anything to 1 Finance : ")
+        query = input("Ask anything about 1 Finance : ")
         if not query:
             print("Please enter something to get the response")
         else:
