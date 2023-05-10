@@ -31,16 +31,17 @@ def construct_index(directory_path):
 def ask_ai():
     index = GPTSimpleVectorIndex.load_from_disk('index.json')
     while True: 
-        query = input("What do you want to ask? ")
+        query = input("Ask anything to 1 Finance : ")
         if not query:
             print("Please enter something to get the response")
         else:
             response = index.query(query)
         print(f"Response: {response.response}")
+        print("\n")
 
 if __name__ == "__main__":
 
-    os.environ["OPENAI_API_KEY"] = input("Paste your OpenAI key here and hit enter:")
+    os.environ["OPENAI_API_KEY"] = input("OpenAI key here and hit enter:")
     if not os.path.exists('index.json'):
         construct_index("context_data/data")
     ask_ai()
