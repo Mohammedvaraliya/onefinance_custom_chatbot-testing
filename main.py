@@ -17,7 +17,7 @@ def construct_index(directory_path):
     prompt_helper = PromptHelper(max_input_size, num_outputs, max_chunk_overlap, chunk_size_limit=chunk_size_limit)
 
     # define LLM
-    llm_predictor = LLMPredictor(llm=OpenAI(temperature=0.5, model_name="text-davinci-003", max_tokens=num_outputs))
+    llm_predictor = LLMPredictor(llm=OpenAI(temperature=1, model_name="text-davinci-003", max_tokens=num_outputs))
  
     documents = SimpleDirectoryReader(directory_path).load_data()
     

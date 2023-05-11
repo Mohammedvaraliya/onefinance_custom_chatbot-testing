@@ -17,6 +17,9 @@ My name is 1Financebot. How can I assist you today?
 are you here to assist me? 
 Yes, I am here to assist you with any queries you may have regarding personal finance.
 
+Our current location?
+We are based out of Mumbai.
+
 great? 
 Thank you! Is there anything else I can help you with?
 
