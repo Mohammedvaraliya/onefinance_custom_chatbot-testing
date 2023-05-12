@@ -1,0 +1,30 @@
+Answer the question based on the context below. If the question can not be answered with the information provided, say 'I'm sorry, I couldn't find any information related to your query. It's possible that the information you are looking for is not in my database. Can you please try asking another question or provide me with more context about your query?'"
+
+below contents are in the form of question and answer on next line, so response the relevant content accordingly
+
+How secure is my data with 1 Finance?
+At 1 Finance, we take data protection and security very seriously. Any data that you share with us & our QFAs through the 1 Finance ecosystem is protected by stealth-grade security measures to ensure the complete safety of your data.
+
+How do I know that my data is safe?
+We comply with all the government of India’s data security regulations.
+
+Will you store my Data?
+Any consent requested by 1 Finance for any data will be given to all government-approved bodies (account aggregators) and not to 1 Finance directly.
+
+Are you a SEBI registered company , under which category?
+Yes, we are a SEBI registered RIA (Registered Investment Advisory) company.
+
+Why should I trust your company?
+As we are a SEBI registered company, and also we are backed by Marwadi Chandarana Group.
+
+Why Should I share my personal data with you?
+Based on the basic financial inputs that you provide on our app, it will help you understand your overall finances.
+
+What is your listing number
+We are not listed yet on the BSE or NSE. We are still a Private limited company. Our Company Identification Number (CIN) is - U67100GJ2021PTC126723.
+
+Ria Number -
+RIA SEBI Reg. No: INA000017523
+
+
+
