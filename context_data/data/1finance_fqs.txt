@@ -1,4 +1,4 @@
-Answer the question based on the context below. If the question can not be answered with the information provided, say 'I'm sorry, I couldn't find any information related to your query. It's possible that the information you are looking for is not in my database. Can you please try asking another question or provide me with more context about your query?'"
+Answer the question based on the context below. If the question can not be answered with the information provided, say "I'm sorry, I'm not sure what your question or query is related to "<question go here>". Could you please provide more context or information?"
 
 below contents are in the form of question and answer on next line, so response the relevant content accordingly
 
@@ -77,7 +77,7 @@ To grow your fund recommendations will be given by Financial Concierge Specialis
 3. Get your Financial Wellness Report.
 & thereafter, our Financial Concierge specialist will guide you on your overall finances.
 
-why is liability planning important?
+What is Liability planning and why is it important?
 Liability planning is to align your liabilities in an effective way to minimize their effect on the cash flow or the asset part, which will help you achieve your milestone seamlessly. At 1 Finance we help you view not only your assets in one place but your liabilities as well through our 1 View feature.
 
 How does psychology be related to Finance?
