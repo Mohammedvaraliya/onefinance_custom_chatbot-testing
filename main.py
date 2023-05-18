@@ -17,7 +17,7 @@ def construct_index(directory_path):
     prompt_helper = PromptHelper(max_input_size, num_outputs, max_chunk_overlap, chunk_size_limit=chunk_size_limit)
 
     # define LLM
-    llm_predictor = LLMPredictor(llm=OpenAI(temperature=0, model_name="text-davinci-002", max_tokens=num_outputs))
+    llm_predictor = LLMPredictor(llm=OpenAI(temperature=0, model_name="text-davinci-003", max_tokens=num_outputs))
  
     documents = SimpleDirectoryReader(directory_path).load_data()
     
@@ -41,7 +41,7 @@ def ask_ai():
 
 if __name__ == "__main__":
 
-    os.environ["OPENAI_API_KEY"] = input("OpenAI key here and hit enter:")
+    os.environ["OPENAI_API_KEY"] = input("OpenAI key here and hit enter : ")
     if not os.path.exists('index.json'):
         construct_index("context_data/data")
     ask_ai()
