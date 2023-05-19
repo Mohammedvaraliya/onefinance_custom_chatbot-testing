@@ -1,0 +1,8 @@
+general.txt took 02.80 seconds
+1finance_faqs.txt took 05.51 seconds
+data.txt took 02.26 seconds
+moneysign.txt took 6.37 seconds
+mutual_fund_data.txt took 40.92 seconds
+
+After making small content file of 10 MF Data
+    mutual_fund_data.txt took 19.94 seconds

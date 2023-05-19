@@ -1,5 +1,5 @@
 from llama_index import SimpleDirectoryReader, GPTListIndex, readers, GPTSimpleVectorIndex, LLMPredictor, PromptHelper, ServiceContext
-from langchain import OpenAI
+from langchain.chat_models import ChatOpenAI
 import sys
 import os
 
@@ -17,7 +17,7 @@ def construct_index(directory_path):
     prompt_helper = PromptHelper(max_input_size, num_outputs, max_chunk_overlap, chunk_size_limit=chunk_size_limit)
 
     # define LLM
-    llm_predictor = LLMPredictor(llm=OpenAI(temperature=0, model_name="text-davinci-003", max_tokens=num_outputs))
+    llm_predictor = LLMPredictor(llm=ChatOpenAI(temperature=0, model_name="gpt-4", max_tokens=num_outputs))
  
     documents = SimpleDirectoryReader(directory_path).load_data()
     
