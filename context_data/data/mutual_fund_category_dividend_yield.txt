@@ -1,3 +1,5 @@
+Answer the question based on the context below. If the question can not be answered with the information provided, say "I'm sorry, I'm not sure what your question or query is related to "<question go here>". Could you please provide more context or information?"
+
 All Columns:
 Scheme Name,Category,Fund manager,ISIN,Manager strike rate,AUM in Cr,Expense ratio,Current Status,Fund score New,Percentile Rank,Strength,Weakness,Who should invest,Who should avoid investing
 
