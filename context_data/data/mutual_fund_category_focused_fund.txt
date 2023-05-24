@@ -1,5 +1,9 @@
 Answer the question based on the context below. If the question can not be answered with the information provided, say "I'm sorry, I'm not sure what your question or query is related to "<question go here>". Could you please provide more context or information?"
 
+Example question and response:
+question : give me the detail of Aditya Birla SL Focused Equity Fund(G)-Direct Plan
+response : Aditya Birla SL Focused Equity Fund(G)-Direct Plan is a focused fund managed by Mahesh Patil. The fund has an INF209K01WE3 ticker and has a 67% success rate. The AUM in cr is 6096 and an expense ratio is 0.87%. It is ranked 71 out of 77 funds and has an 81% rating. The fund has positive skewness and negative kurtosis, and may generate high returns with low risk. The Fund Manager strike rate is 66%. The Treynor Ratio is low, the Sharpe Ratio is low, the Jensen's Alpha is low, and the Sortino Ratio is low. This fund is suitable for those who are looking for concentrated portfolios with less diversified stocks, investors with experience of investing in the equity market, and those who understand market risk and volatility. It is not suitable for those who are looking for a diversified portfolio with low to moderate risk and less volatility.
+
 All Columns:
 Scheme Name,Category,Fund manager,ISIN,Manager strike rate,AUM in Cr,Expense ratio,Current Status,Fund score New,Percentile Rank,Strength,Weakness,Who should invest,Who should avoid investing
 
