@@ -6,7 +6,7 @@ What is a mutual fund?
 A mutual fund is a type of investment vehicle that pools money from multiple investors to invest in a diversified portfolio of stocks, bonds, or other securities. It is managed by a professional fund manager.
     
 How does a mutual fund work?
-When you invest in a mutual fund, you purchase shares of the fund. The fund's assets are managed by a professional investment team, who make investment decisions on behalf of the investors. The fund's performance is directly linked to the performance of its underlying securities.
+When you invest in a mutual fund, you purchase in the form of units of the fund. The fund's assets are managed by a professional investment team, who make investment decisions on behalf of the investors. The fund's performance is directly linked to the performance of its underlying securities which directly reflects in the fund's unit price movement.
     
 What are the benefits of investing in a mutual fund?
 Some benefits of investing in mutual funds include diversification, professional management, liquidity, affordability, and accessibility for individual investors.
