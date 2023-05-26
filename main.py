@@ -2,7 +2,7 @@ from llama_index import SimpleDirectoryReader, GPTListIndex, readers, GPTSimpleV
 from langchain.chat_models import ChatOpenAI
 from langchain import OpenAI, ConversationChain
 from langchain.memory import ConversationBufferMemory
-from langchain.prompts import ChatPromptTemplate
+import uuid
 import sys
 import os
 
@@ -36,17 +36,22 @@ def ask_ai():
     index = GPTSimpleVectorIndex.load_from_disk('index.json')
     llm = OpenAI(temperature=0.7, model_name="text-davinci-003")
     memory = ConversationBufferMemory(return_messages=True)
+    conversation_id = str(uuid.uuid4())
     conversation = ConversationChain(llm=llm, memory=memory)
+
     while True:
         query = input("Ask anything about 1 Finance : ")
         if not query:
             print("Please enter something to get the response")
         else:
             memory.chat_memory.add_user_message(query)
+            query_config = {
+                'history': [memory.chat_memory]
+            }
             response = index.query(query).response
             memory.chat_memory.add_ai_message(response)
-            print(memory.load_memory_variables({}))
         print(f"Response: {response}")
+        print(memory.chat_memory)
         print("\n")
 
 if __name__ == "__main__":
