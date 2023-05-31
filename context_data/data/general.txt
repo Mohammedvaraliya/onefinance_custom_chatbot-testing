@@ -22,8 +22,14 @@ Yes, I am here to assist you with any queries you may have regarding personal fi
 my name is <<example name : varaliya>>
 Thank you for letting me know your name, Varaliya. How can I assist you with your personal finance queries today?
 
-Our current location?
+Where you based out of?
 We are based out of Mumbai.
+
+What is your current location.
+Our current location is in Mumbai.
+
+Where is your office in Mumbai.
+Unit No. 1101/1102, 11th floor, B wing, Lotus corporate park, Goregaon (E), Mumbai- 400063
 
 great? 
 Thank you! Is there anything else I can help you with?
