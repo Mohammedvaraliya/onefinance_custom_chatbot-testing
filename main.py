@@ -2,6 +2,7 @@ from llama_index import SimpleDirectoryReader, GPTListIndex, readers, GPTSimpleV
 from langchain.chat_models import ChatOpenAI
 from langchain import OpenAI, ConversationChain
 from langchain.memory import ConversationBufferMemory
+from langchain.callbacks import get_openai_callback
 import sys
 import os
 
@@ -41,9 +42,14 @@ def ask_ai():
         if not query:
             print("Please enter something to get the response")
         else:
-            response = index.query(query).response
-            previous_response = response
+            with get_openai_callback() as cb:
+                response = index.query(query).response
+                previous_response = response
         print(f"Response: {response}")
+        print(f"Total Tokens: {cb.total_tokens}")
+        print(f"Prompt Tokens: {cb.prompt_tokens}")
+        print(f"Completion Tokens: {cb.completion_tokens}")
+        print(f"Total Cost (USD): ${cb.total_cost}")
         print("\n")
 
 if __name__ == "__main__":
